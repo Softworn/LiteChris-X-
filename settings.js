@@ -6,11 +6,11 @@
 const chalk = require("chalk")
 const fs = require("fs")
 //auto presence update
-global.autoTyping = false //auto typing in group chat (true to enable, false to disable)
-global.autoRecord = false //auto recording (true to enable, false to disable)
+global.autoTyping = true //auto typing in group chat (true to enable, false to disable)
+global.autoRecord = true //auto recording (true to enable, false to disable)
 global.autoblockmorroco = true //auto block 212 (true to enable, false to disable)
 global.autokickmorroco = true //auto kick 212 (true to enable, false to disable) 
-global.antispam = false //auto kick spammer (true to enable, false to disable)
+global.antispam = true //auto kick spammer (true to enable, false to disable)
 //////////////////////////////////////////////////////////////////////////////////
 
 //LIMIT//
@@ -48,20 +48,20 @@ global.replyviex = 'https://files.catbox.moe/exmz6a.jpg'
 global.ig = '' //YOUR INSTAGRAM NAME
 global.yt = 'Xchristech' //YOUR YOUTUBE NAME, IF NONE THEN LEAVE BLANK
 global.ttowner = 'chrisquotes' //YOUR TIKTOK NAME
-global.ownername = 'ᴅᴇᴠ : ᴍᴀʟᴠɪɴ ᴋɪɴɢ' //YOUR NAME
-global.owner = ['2348069675806'] // ALSO SET THIS IN DATABASE FOLDER 
-global.ownernomer = '2348069675806' //YOUR NUMBER
+global.ownername = 'ᴅᴇᴠ : Onyemetu Michael' //YOUR NAME
+global.owner = ['2349110217309'] // ALSO SET THIS IN DATABASE FOLDER 
+global.ownernomer = '234910217309' //YOUR NUMBER
 global.socialm = 'GitHub: -'
-global.location = 'Indonesia' 
+global.location = 'Nigeria' 
 global.nameCreator = 'ᴅᴇᴠ : ᴍᴀʟᴠɪɴ ᴋɪɴɢ'
 /////////////////////////////////////////////////////////////////////////////////
 
 
 //==================BOT SETTINGS===========================\\
 global.botname = "LITRCHRIS | BOT" //YOUR BOT NAME
-global.ownernumber = '2348069675806' //YOUR NUMBER
-global.botnumber = '2348069675806' //YOUR NUMBER
-global.ownername = 'ᴅᴇᴠ : ᴍᴀʟᴠɪɴ ᴋɪɴɢ' //YOUR NAME
+global.ownernumber = '2349110217309' //YOUR NUMBER
+global.botnumber = '2349110217309' //YOUR NUMBER
+global.ownername = 'ᴅᴇᴠ : ONYEMETU MICHAEL' //YOUR NAME
 global.idSaluran = "120363398430045533@newsletter" //YOUR CHANNEL ID
 global.idch = "120363398430045533@newsletter" //YOUR CHANNEL ID
 global.chat = '120363398430045533@newsletter'
